@@ -1,2 +1,2 @@
 # Quantification-AM
-A long-term characterisation and quantification ofamplitude modulation
+A long-term characterisation and quantification of amplitude modulation
